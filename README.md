@@ -1,8 +1,8 @@
 # Power BI My Workspace Link: https://app.powerbi.com/groups/me/list?experience=power-bi
 # Project 1 - Sales Dashboard: ![Project 1 Sales Dashboard](https://github.com/user-attachments/assets/f6fa78c1-c606-4726-a8f1-0457e390f96e)
 # Project 2 - KPI: 
-# DASANI WATER ![Project 3 Sales KPI Dashboard-Power-BI](https://github.com/user-attachments/assets/d0f82389-c8b2-4edd-bad3-7972b7ed35e3)
-# FANTA ![Project 3-Sales KPI-Dashboard (Fanta)-Power-BI](https://github.com/user-attachments/assets/59671396-8508-41e2-a83e-b3e1c44d357a)
+# DASANI WATER April Sales in New York ![P3-Water New York April Sales Dashboard Power-BI](https://github.com/user-attachments/assets/0748339d-684e-4b3d-b8a1-8259bd0a9cb0)
+# FANTA Year Sales in USA ![Project 3 Fanta year Sales-Dashboard-Power-BI](https://github.com/user-attachments/assets/8573471c-3857-4366-bbe7-97fdda12058c)
 
 # Tableau My Profile Link: https://public.tableau.com/app/profile/nafis.ahmad1596/vizzes
 # Monthly Sales of Each Year (2018-2021): 
