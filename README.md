@@ -6,6 +6,7 @@ https://app.powerbi.com/groups/me/list?experience=power-bi
 # FANTA Year Sales in USA ![Project 3 Fanta year Sales-Dashboard-Power-BI](https://github.com/user-attachments/assets/8573471c-3857-4366-bbe7-97fdda12058c)
 # Academic Course Project: Environmental Elements Quality Analysis
 <img width="687" height="748" alt="image" src="https://github.com/user-attachments/assets/db8699c7-e4e8-4246-9bb8-7bb2b5e3665f" />
+<img width="687" height="748" alt="ENV107L-15-E-2-Nafis-Ahmad-pdf-11-23-2025_12_15_PM" src="https://github.com/user-attachments/assets/b0de89c7-fceb-4974-a513-eb390184957b" />
 
 
 
