@@ -5,7 +5,7 @@ https://app.powerbi.com/groups/me/list?experience=power-bi
 # WATER April Sales in New York ![P3-Water New York April Sales Dashboard Power-BI](https://github.com/user-attachments/assets/0748339d-684e-4b3d-b8a1-8259bd0a9cb0)
 # FANTA Year Sales in USA ![Project 3 Fanta year Sales-Dashboard-Power-BI](https://github.com/user-attachments/assets/8573471c-3857-4366-bbe7-97fdda12058c)
 
-# Academic Course Project: Environmental Elements Quality Analysis (Grade 4.00, A)
+# Academic Course Project: Environmental Elements Quantity & Quality Analysis (Grade 4.00, A)
 
 Using Power BI
 
