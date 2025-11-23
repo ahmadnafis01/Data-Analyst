@@ -4,6 +4,11 @@ https://app.powerbi.com/groups/me/list?experience=power-bi
 # Project 2 - KPI: 
 # WATER April Sales in New York ![P3-Water New York April Sales Dashboard Power-BI](https://github.com/user-attachments/assets/0748339d-684e-4b3d-b8a1-8259bd0a9cb0)
 # FANTA Year Sales in USA ![Project 3 Fanta year Sales-Dashboard-Power-BI](https://github.com/user-attachments/assets/8573471c-3857-4366-bbe7-97fdda12058c)
+# Academic Course Project: Environmental Elements Quality Analysis
+<img width="687" height="748" alt="image" src="https://github.com/user-attachments/assets/db8699c7-e4e8-4246-9bb8-7bb2b5e3665f" />
+
+
+
 
 # My Tableau Profile Link: 
 https://public.tableau.com/app/profile/nafis.ahmad1596/vizzes
