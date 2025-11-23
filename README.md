@@ -5,12 +5,14 @@ https://app.powerbi.com/groups/me/list?experience=power-bi
 # WATER April Sales in New York ![P3-Water New York April Sales Dashboard Power-BI](https://github.com/user-attachments/assets/0748339d-684e-4b3d-b8a1-8259bd0a9cb0)
 # FANTA Year Sales in USA ![Project 3 Fanta year Sales-Dashboard-Power-BI](https://github.com/user-attachments/assets/8573471c-3857-4366-bbe7-97fdda12058c)
 # Academic Course Project: Environmental Elements Quality Analysis
-<img width="687" height="748" alt="image" src="https://github.com/user-attachments/assets/db8699c7-e4e8-4246-9bb8-7bb2b5e3665f" />
-<img width="687" height="748" alt="ENV107L-15-E-2-Nafis-Ahmad-pdf-11-23-2025_12_15_PM" src="https://github.com/user-attachments/assets/b0de89c7-fceb-4974-a513-eb390184957b" />
+Using Power BI
 <img width="682" height="760" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/67a7c64f-c8a8-4479-8b4d-3eaae3f53d25" />
-
-
-
+<img width="683" height="702" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/16d0276a-c250-492b-a48f-7b0769b13cec" />
+<img width="685" height="685" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/bd606d95-3f61-41a2-83c1-4c52431a3e02" />
+Using Excel
+<img width="518" height="645" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/f606f38c-e49d-47b6-9945-431ed6ca8488" />
+<img width="513" height="673" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/8fb56ae8-e11c-4fcc-91f2-2cdb799c994f" />
+<img width="779" height="724" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/8270fce3-6b17-4068-8e69-7b7665dfaa6e" />
 
 # My Tableau Profile Link: 
 https://public.tableau.com/app/profile/nafis.ahmad1596/vizzes
